@@ -1,2 +1,2 @@
 # payment-date-prediction
-this is the project which i have done in internship 
+# THIS IS THE ML PROJECT WHICH I HAVE DONE IN MY INTERNSHIP
